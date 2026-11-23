@@ -90,8 +90,8 @@
     "url": ""
   },
   "ez_playertools": {
-    "version": "1.1.0",
-    "changelog": "New modules: `KeyBinds` (rebindable keys for other scripts' commands + seat switch, from ez_keysbind), `PlayAnims` (/playanim, /playscenario, /music, restricted by ACE by default, from ez_playanimations), `PhoneMessage` (delayed phone message + GPS waypoint, from ez_message_phone; providers ez_phone",
+    "version": "1.2.0",
+    "changelog": "Absorbs `ez_utils` (client part): `/detachprops` + admin `/detachplayer`, no idle camera, combat rules (targeting mode, friendly fire, no wanted level, no health regen: all configurable), optional IPL list and server map name / game type. Dropped from the original: ez_chat theme command, empty radar",
     "url": ""
   },
   "ez_pnjcreator": {
@@ -145,8 +145,8 @@
     "url": ""
   },
   "ez_vehicletools": {
-    "version": "1.1.0",
-    "changelog": "New module `/carkill` (from ez_carkill): revive after a death caused by a vehicle, via your ambulance's revive event or a `Revive` hook (`Config.CarKill`), with cooldown. Original logic (AllowRevive thread) simplified; the death-cause check is the same.",
+    "version": "1.2.0",
+    "changelog": "Absorbs `ez_utils` (vehicle part): `/seat` (+ optional rebindable keys), no automatic seat shuffle, enter by the nearest door, optional vehicle-weapon lock (`Config.Seat`, `Config.NoVehicleWeapons`). Door detection now uses the shape-test native instead of the deprecated raycast.",
     "url": ""
   },
   "ez_wipe": {
