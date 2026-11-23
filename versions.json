@@ -1,0 +1,142 @@
+{
+  "ez_3dme": {
+    "version": "3.7.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_aim": {
+    "version": "1.5.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_banking": {
+    "version": "2.4.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_blackmoney_creator": {
+    "version": "2.3.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_blips": {
+    "version": "1.8.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_chassepeche": {
+    "version": "1.6.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_coords": {
+    "version": "1.5.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_gouvernement": {
+    "version": "2.4.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_hud": {
+    "version": "1.7.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_instance": {
+    "version": "2.3.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_intro": {
+    "version": "2.3.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_jobs": {
+    "version": "1.3.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_loisirs": {
+    "version": "1.8.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_notify": {
+    "version": "2.6.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_pausemenu": {
+    "version": "1.6.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_pedmenu": {
+    "version": "1.7.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_phone": {
+    "version": "1.9.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_pnjcreator": {
+    "version": "1.7.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_reports": {
+    "version": "1.5.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_rewards": {
+    "version": "2.3.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_robberies": {
+    "version": "1.3.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_speedometer": {
+    "version": "3.6.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_stripclub": {
+    "version": "2.3.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_teleport": {
+    "version": "2.6.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_traffic": {
+    "version": "2.5.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_transit": {
+    "version": "2.3.0",
+    "changelog": "",
+    "url": ""
+  },
+  "ez_wipe": {
+    "version": "1.5.0",
+    "changelog": "",
+    "url": ""
+  },
+  "shops-creator": {
+    "version": "1.6.0",
+    "changelog": "",
+    "url": ""
+  }
+}
