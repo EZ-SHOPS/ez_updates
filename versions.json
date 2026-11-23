@@ -94,6 +94,11 @@
     "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
     "url": ""
   },
+  "ez_radar": {
+    "version": "2.1.0",
+    "changelog": "Version prête à la vente (basée sur l'original 1.7.1) : multi-framework (ESX, QBCore, Qbox, standalone) via le bridge EZ ; plus de dépendance à `es_extended`, `ox_lib`, `ez_hud_control` (remplacé par `Config.HudControl`) ; `ez_notify` facultatif (`Config.UseEzNotify`). Langues fr / en (Lua + interfa",
+    "url": ""
+  },
   "ez_reports": {
     "version": "1.5.0",
     "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
