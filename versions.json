@@ -54,6 +54,11 @@
     "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
     "url": ""
   },
+  "ez_ipl_creator": {
+    "version": "2.4.0",
+    "changelog": "Renommé `ipl_creator` → `ez_ipl_creator` (commande `/iplcreator`, ACE `iplcreator.admin` et évènements `iplcreator:*` inchangés). Version prête à la vente (basée sur l'original 2.3.0) : multi-framework via le bridge EZ (notifications), plus de dépendance `ez_hud_control` (remplacé par `Config.HudCon",
+    "url": ""
+  },
   "ez_jobs": {
     "version": "1.3.0",
     "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
