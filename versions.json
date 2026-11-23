@@ -84,6 +84,11 @@
     "changelog": "Settings redesigned like iOS: grouped lists with colored icons, chevrons and sub-pages (SIM cards, AirDrop, Display, Wallpaper, Home screen, Battery, Face ID & Passcode, About). Battery: simulated level (drains while the phone is open, recharges when put away), optional **battery percentage** in the",
     "url": ""
   },
+  "ez_playertools": {
+    "version": "1.0.0",
+    "changelog": "Regroupe ez_knockout, ez_recoil (recul + anti bunny-hop) et ez_hud_control (versions d'origine) en une ressource modulaire. K.O. : durée, seuil, soin et touche configurables ; l'original gardait le joueur invincible si le thread s'arrêtait et redemandait `GetPlayerPed(-1)` à chaque frame. Recul : ta",
+    "url": ""
+  },
   "ez_pnjcreator": {
     "version": "1.7.0",
     "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
@@ -127,6 +132,11 @@
   "ez_transit": {
     "version": "2.3.0",
     "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "url": ""
+  },
+  "ez_vehicletools": {
+    "version": "1.0.0",
+    "changelog": "Regroupe ez_antidriveby, ez_gyro, ez_simpledrift, ez_regulateur et ez_nohelmet (versions d'origine) en une ressource modulaire (`Config.<Module>.enabled`). Gyrophare : bascule allumé / éteint, modèles autorisés, seul le conducteur, extras inexistants ignorés. Drift : touche rebindable, limite en km/",
     "url": ""
   },
   "ez_wipe": {
