@@ -70,8 +70,8 @@
     "url": ""
   },
   "ez_pausemenu": {
-    "version": "1.6.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "1.7.0",
+    "changelog": "`Config.HudControl` now points to `ez_playertools` (`ToggleHud`) by default.",
     "url": ""
   },
   "ez_pedmenu": {
@@ -85,8 +85,8 @@
     "url": ""
   },
   "ez_playertools": {
-    "version": "1.0.0",
-    "changelog": "Regroupe ez_knockout, ez_recoil (recul + anti bunny-hop) et ez_hud_control (versions d'origine) en une ressource modulaire. K.O. : durée, seuil, soin et touche configurables ; l'original gardait le joueur invincible si le thread s'arrêtait et redemandait `GetPlayerPed(-1)` à chaque frame. Recul : ta",
+    "version": "1.1.0",
+    "changelog": "New modules: `KeyBinds` (rebindable keys for other scripts' commands + seat switch, from ez_keysbind), `PlayAnims` (/playanim, /playscenario, /music, restricted by ACE by default, from ez_playanimations), `PhoneMessage` (delayed phone message + GPS waypoint, from ez_message_phone; providers ez_phone",
     "url": ""
   },
   "ez_pnjcreator": {
@@ -135,8 +135,8 @@
     "url": ""
   },
   "ez_vehicletools": {
-    "version": "1.0.0",
-    "changelog": "Regroupe ez_antidriveby, ez_gyro, ez_simpledrift, ez_regulateur et ez_nohelmet (versions d'origine) en une ressource modulaire (`Config.<Module>.enabled`). Gyrophare : bascule allumé / éteint, modèles autorisés, seul le conducteur, extras inexistants ignorés. Drift : touche rebindable, limite en km/",
+    "version": "1.1.0",
+    "changelog": "New module `/carkill` (from ez_carkill): revive after a death caused by a vehicle, via your ambulance's revive event or a `Revive` hook (`Config.CarKill`), with cooldown. Original logic (AllowRevive thread) simplified; the death-cause check is the same.",
     "url": ""
   },
   "ez_wipe": {
