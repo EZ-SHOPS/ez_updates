@@ -59,6 +59,11 @@
     "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
     "url": ""
   },
+  "ez_loadscreen": {
+    "version": "2.2.0",
+    "changelog": "Régénéré avec Loadscreen Creator 1.1.0 (mode « Bouton Entrer en jeu » : intro vidéo lue une fois, bouton, fermeture au clic). Retrait des dépendances : `es_extended` (imports), `oxmysql` et l’anticheat interne ; l'isolement par `ez_instance` est facultatif (ignoré si la ressource n'est pas démarrée)",
+    "url": ""
+  },
   "ez_loisirs": {
     "version": "1.8.0",
     "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
