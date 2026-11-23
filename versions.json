@@ -1,7 +1,7 @@
 {
   "ez_3dme": {
-    "version": "3.7.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "3.8.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_aim": {
@@ -10,18 +10,18 @@
     "url": ""
   },
   "ez_banking": {
-    "version": "2.4.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "2.5.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_blackmoney_creator": {
-    "version": "2.3.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "2.4.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_blips": {
-    "version": "1.8.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "1.9.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_chassepeche": {
@@ -30,13 +30,13 @@
     "url": ""
   },
   "ez_coords": {
-    "version": "1.5.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "1.6.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_gouvernement": {
-    "version": "2.4.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "2.5.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_hud": {
@@ -55,13 +55,13 @@
     "url": ""
   },
   "ez_ipl_creator": {
-    "version": "2.4.0",
-    "changelog": "Renommé `ipl_creator` → `ez_ipl_creator` (commande `/iplcreator`, ACE `iplcreator.admin` et évènements `iplcreator:*` inchangés). Version prête à la vente (basée sur l'original 2.3.0) : multi-framework via le bridge EZ (notifications), plus de dépendance `ez_hud_control` (remplacé par `Config.HudCon",
+    "version": "2.5.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_jobs": {
-    "version": "1.3.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "1.4.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_loadscreen": {
@@ -70,8 +70,8 @@
     "url": ""
   },
   "ez_loisirs": {
-    "version": "1.8.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "1.9.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_notify": {
@@ -85,8 +85,8 @@
     "url": ""
   },
   "ez_pedmenu": {
-    "version": "1.7.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "1.8.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_phone": {
@@ -95,33 +95,33 @@
     "url": ""
   },
   "ez_playertools": {
-    "version": "1.2.0",
-    "changelog": "Absorbs `ez_utils` (client part): `/detachprops` + admin `/detachplayer`, no idle camera, combat rules (targeting mode, friendly fire, no wanted level, no health regen: all configurable), optional IPL list and server map name / game type. Dropped from the original: ez_chat theme command, empty radar",
+    "version": "1.3.0",
+    "changelog": "`Config.HudControl.huds` : `ez_hud` et `ez_speedometer` masqués avec le HUD (option `invert` pour les exports de type « masquer »).",
     "url": ""
   },
   "ez_pnjcreator": {
-    "version": "1.7.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "1.8.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_radar": {
-    "version": "2.1.0",
-    "changelog": "Version prête à la vente (basée sur l'original 1.7.1) : multi-framework (ESX, QBCore, Qbox, standalone) via le bridge EZ ; plus de dépendance à `es_extended`, `ox_lib`, `ez_hud_control` (remplacé par `Config.HudControl`) ; `ez_notify` facultatif (`Config.UseEzNotify`). Langues fr / en (Lua + interfa",
+    "version": "2.2.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_reports": {
-    "version": "1.5.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "1.6.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_rewards": {
-    "version": "2.3.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "2.4.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_robberies": {
-    "version": "1.3.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "1.4.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_speedometer": {
@@ -135,18 +135,18 @@
     "url": ""
   },
   "ez_teleport": {
-    "version": "2.6.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "2.7.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_traffic": {
-    "version": "2.5.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "2.6.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_transit": {
-    "version": "2.3.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "2.4.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "ez_vehicletools": {
@@ -155,13 +155,13 @@
     "url": ""
   },
   "ez_wipe": {
-    "version": "1.5.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "1.6.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
   "shops-creator": {
-    "version": "1.6.0",
-    "changelog": "`version.lua` : dépôt de mises à jour renseigné (EZ-SHOPS/ez_updates).",
+    "version": "1.7.0",
+    "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   }
 }
