@@ -95,8 +95,8 @@
     "url": ""
   },
   "ez_playertools": {
-    "version": "1.4.0",
-    "changelog": "New modules, all switchable in `config.lua`: **Chat** (NUI chat replacing the Cfx.re `chat`, off by default, fr/en, same `chat:*` events), **Carry** (`/porter`, consent asked, server-side checks), **TakeHostage** (`/otage`, release G / kill H, server decides everything), **Whistle** (`/siffler`, ser",
+    "version": "1.5.0",
+    "changelog": "New module **Presence** (from ez_presence): Discord rich presence (character name, role, player count, 2 buttons). Inactive until `Config.Presence.appId` is set (the original's SevenLife app id / invite are not shipped). Fixes: the original decremented the count on a non-existent event (`onPlayerDro",
     "url": ""
   },
   "ez_pnjcreator": {
