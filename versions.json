@@ -95,8 +95,8 @@
     "url": ""
   },
   "ez_playertools": {
-    "version": "1.3.0",
-    "changelog": "`Config.HudControl.huds` : `ez_hud` et `ez_speedometer` masqués avec le HUD (option `invert` pour les exports de type « masquer »).",
+    "version": "1.4.0",
+    "changelog": "New modules, all switchable in `config.lua`: **Chat** (NUI chat replacing the Cfx.re `chat`, off by default, fr/en, same `chat:*` events), **Carry** (`/porter`, consent asked, server-side checks), **TakeHostage** (`/otage`, release G / kill H, server decides everything), **Whistle** (`/siffler`, ser",
     "url": ""
   },
   "ez_pnjcreator": {
@@ -150,8 +150,8 @@
     "url": ""
   },
   "ez_vehicletools": {
-    "version": "1.2.0",
-    "changelog": "Absorbs `ez_utils` (vehicle part): `/seat` (+ optional rebindable keys), no automatic seat shuffle, enter by the nearest door, optional vehicle-weapon lock (`Config.Seat`, `Config.NoVehicleWeapons`). Door detection now uses the shape-test native instead of the deprecated raycast.",
+    "version": "1.3.0",
+    "changelog": "New modules: **AirControl** (no steering / throttle while airborne, aircraft and boats ignored; from ez_disablecontrol), **DisableRadio** (radio off on entering a vehicle, optional lock; from ez_disableradio), **HeliCam** (police helicopter camera: zoom, night / thermal vision, vehicle lock-on, sear",
     "url": ""
   },
   "ez_wipe": {
