@@ -34,6 +34,11 @@
     "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
     "url": ""
   },
+  "ez_freecam": {
+    "version": "1.2.0",
+    "changelog": "Rewritten from the original (v1.1.0) for sale: standalone, no ESX / ez_monitor / assetpacks dependency; fr/en (UI + notifications); Google font import removed (no external request). Access: `Config.Access` (`everyone` | `ace` | `custom`); radius limit lifted by ACE `ez_freecam.unlimited` or `Config.",
+    "url": ""
+  },
   "ez_gouvernement": {
     "version": "2.5.0",
     "changelog": "Masquage du HUD : `ez_playertools` (export `ToggleHud`) branché par défaut.",
